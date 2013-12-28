@@ -2,4 +2,4 @@
 An easy toolkit for make your 3DS boom!
 ## Programs
  * 3NDAN - 3DS NAND analyzer
- * HAXINSTALLER - devkitARM executable who crashes 3DS due stacksmash
+ * GW_DECRYPT - Nice tool who decrypts all GW launchers to update
