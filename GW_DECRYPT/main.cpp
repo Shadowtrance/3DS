@@ -4,11 +4,6 @@
 #include <string.h>
 #include "FILE_GW.hpp"
 
-void ERROR(char *error) 
-{
-	std::cout << std::endl<< "	[ERROR]: " << error << std::endl;
-}
-
 void help(char *app_name) 
 {
 	std::cout
